@@ -25,7 +25,9 @@ SECRET_KEY = 'iii39@pt3%i$tl++c4z^e83)w-&pl4t8rdmwjc@s0&@zgqgh(y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'murmuring-tundra-87831.herokuapp.com'
+]
 
 
 # Application definition
